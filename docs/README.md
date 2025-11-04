@@ -1,4 +1,4 @@
-# TL;DR
+
 - Local PySpark ETL for fitness tracking data builds bronze/silver/gold layers plus optional ML experiments.
 - Data quality is questionable (large gaps, inconsistent weight/stress signals), so downstream analysis should validate assumptions before using.
 
